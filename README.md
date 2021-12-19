@@ -1,4 +1,4 @@
-# Ruby Calculator
+# Ruby Basics
 
 Quick practice to learn Ruby syntax.
 
