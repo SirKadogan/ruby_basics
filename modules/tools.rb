@@ -6,6 +6,3 @@ module Tools
     puts "Goodbye #{name}"
   end
 end
-
-include Tools
-Tools.sayhi("John")
